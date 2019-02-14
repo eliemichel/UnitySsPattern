@@ -15,7 +15,7 @@ Features
 Download
 --------
 
-A unity package is available in the relase section : [SsPattern v1.0]()
+A unity package is available in the relase section : [SsPattern v1.0](https://github.com/eliemichel/UnitySsPattern/releases/download/v1.1/UnitySsPattern-v1.0.unitypackage)
 
 Usage
 -----
