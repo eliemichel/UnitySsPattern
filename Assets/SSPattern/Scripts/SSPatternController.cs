@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿// (c) 2019 Elie Michel
+// This code is part of UnitySsPattern and licensed under MIT license
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

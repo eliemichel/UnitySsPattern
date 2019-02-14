@@ -1,4 +1,7 @@
-﻿Shader "FX/SSPattern"
+﻿// (c) 2019 Elie Michel
+// This code is part of UnitySsPattern and licensed under MIT license
+
+Shader "FX/SSPattern"
 {
     Properties
     {
